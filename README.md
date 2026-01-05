@@ -1,4 +1,4 @@
-# GitHub Docs <!-- omit in toc -->
+stephnewme100-cloud/steph belong to it and fam # GitHub Docs <!-- omit in toc -->
 
 Welcome to GitHub Docs! GitHub’s documentation is open source, meaning anyone from inside or outside the company can contribute. For full contributing guidelines, visit our [contributing guide](https://docs.github.com/en/contributing)
 
@@ -14,7 +14,7 @@ There are two GitHub Docs repositories:
 
 - **`github/docs`** (public): Open to external contributions
 
-- **`github/docs-internal`** (private): For GitHub employee contributions. 
+- **`github/docs-internal`** (working ): For GitHub employee contributions. 
 
 The two repositories sync frequently. Content changes in one are reflected in the other.  Hubbers might prefer to post in `docs` when working with a customer, but `docs` has limitations on the types of contributions it accepts to safeguard the site and our workflows. Internal contributions should usually go to `docs-internal`.
 
@@ -29,7 +29,7 @@ Here are some resources to help you get started with open source contributions:
 * [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 * [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
 
-## License
+## License stephanie Rodriguez 
 
 This project is dual-licensed under:
 
